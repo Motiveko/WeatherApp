@@ -1,6 +1,4 @@
 @charset "UTF-8";
-
-
 *{
 	
 	margin : 0;
@@ -37,7 +35,7 @@ body {
 
 .degree-section {
 	display: flex;
-	align-items: cetner;
+	align-items: center;
 	cursor: pointer; 
 }
 
